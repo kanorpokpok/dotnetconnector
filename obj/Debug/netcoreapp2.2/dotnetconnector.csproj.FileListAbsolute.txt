@@ -1,0 +1,14 @@
+D:\GitHub\dotnetconnector\bin\Debug\netcoreapp2.2\dotnetconnector.deps.json
+D:\GitHub\dotnetconnector\bin\Debug\netcoreapp2.2\dotnetconnector.runtimeconfig.json
+D:\GitHub\dotnetconnector\bin\Debug\netcoreapp2.2\dotnetconnector.runtimeconfig.dev.json
+D:\GitHub\dotnetconnector\bin\Debug\netcoreapp2.2\dotnetconnector.dll
+D:\GitHub\dotnetconnector\bin\Debug\netcoreapp2.2\dotnetconnector.pdb
+D:\GitHub\dotnetconnector\obj\Debug\netcoreapp2.2\dotnetconnector.csprojAssemblyReference.cache
+D:\GitHub\dotnetconnector\obj\Debug\netcoreapp2.2\dotnetconnector.csproj.CoreCompileInputs.cache
+D:\GitHub\dotnetconnector\obj\Debug\netcoreapp2.2\dotnetconnector.RazorAssemblyInfo.cache
+D:\GitHub\dotnetconnector\obj\Debug\netcoreapp2.2\dotnetconnector.RazorAssemblyInfo.cs
+D:\GitHub\dotnetconnector\obj\Debug\netcoreapp2.2\dotnetconnector.AssemblyInfoInputs.cache
+D:\GitHub\dotnetconnector\obj\Debug\netcoreapp2.2\dotnetconnector.AssemblyInfo.cs
+D:\GitHub\dotnetconnector\obj\Debug\netcoreapp2.2\dotnetconnector.RazorTargetAssemblyInfo.cache
+D:\GitHub\dotnetconnector\obj\Debug\netcoreapp2.2\dotnetconnector.dll
+D:\GitHub\dotnetconnector\obj\Debug\netcoreapp2.2\dotnetconnector.pdb
